@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Rohan
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building websites
 - 🌱 I’m currently learning web development
